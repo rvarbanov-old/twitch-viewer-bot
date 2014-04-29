@@ -1,0 +1,26 @@
+{
+  "name": "twitch-viewer-bot",
+  "description": "This is an experiment and should never be used for boosting your numbers.",
+  "tags": [
+    "twitch",
+    "livestreamer",
+    "util",
+    "utility",
+    "video",
+    "bot"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Beau West",
+    "email": "beau@west.gs"
+  },
+  "license": "Apache, Version 2.0",
+  "engines": [
+    "node >= 0.8.0"
+  ],
+  "main": "bot.js",
+  "dependencies": {
+    "prompt": "^0.2.12",
+    "request": "^2.34.0"
+  }
+}
